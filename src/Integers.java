@@ -18,7 +18,7 @@ public class Integers {
             System.out.println(s);;
             sum = sum+s;
         }
-        System.out.println("sum of integers is: " + sum);
+        System.out.println("sum of integers is : " + sum);
 
 
     }
